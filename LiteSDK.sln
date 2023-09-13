@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LiteSDK", "LiteSDK\LiteSDK.vcxproj", "{A8492160-53AA-4EEE-AFCD-BFB4E0F0D537}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Chaos Theory|Win32 = Chaos Theory|Win32
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8492160-53AA-4EEE-AFCD-BFB4E0F0D537}.Chaos Theory|Win32.ActiveCfg = Chaos Theory|Win32
+		{A8492160-53AA-4EEE-AFCD-BFB4E0F0D537}.Chaos Theory|Win32.Build.0 = Chaos Theory|Win32
+		{A8492160-53AA-4EEE-AFCD-BFB4E0F0D537}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A8492160-53AA-4EEE-AFCD-BFB4E0F0D537}.Debug|Win32.Build.0 = Debug|Win32
+		{A8492160-53AA-4EEE-AFCD-BFB4E0F0D537}.Release|Win32.ActiveCfg = Release|Win32
+		{A8492160-53AA-4EEE-AFCD-BFB4E0F0D537}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAE99FA3-D2DF-4F05-B6A5-CC2AF8D38E41}
+	EndGlobalSection
+EndGlobal
