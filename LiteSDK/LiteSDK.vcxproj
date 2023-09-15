@@ -90,9 +90,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="LiteSDK.h" />
-    <ClInclude Include="Unreal\CommonUnreal.h" />
-    <ClInclude Include="Unreal\ImportUnreal.h" />
-    <ClInclude Include="Unreal\SC3.h" />
+    <ClInclude Include="SC3.h" />
+    <ClInclude Include="Unreal.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

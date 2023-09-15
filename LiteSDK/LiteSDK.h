@@ -1,5 +1,5 @@
 #pragma once
-#include "Unreal/ImportUnreal.h"
+#include "Unreal.h"
 #include <string>
 #include <vector>
 #include <type_traits>
