@@ -154,8 +154,7 @@ std::vector<std::string> LiteSDK::GetNames()
 	for (int i = 0; i < GNames->Count; i++)
 	{
 		curString = GetNameFromIndex(i);
-		if (!curString.empty())
-			names.push_back(curString);
+		names.push_back(curString);
 	}
 	
 	return names;
